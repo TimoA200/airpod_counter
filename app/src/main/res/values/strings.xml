@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirPod_Counter</string>
+    <string name="saved_counter_key">counter</string>
+</resources>
