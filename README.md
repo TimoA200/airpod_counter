@@ -1,6 +1,13 @@
 # Airpod Counter
 The #1 App for counting airpods. Probably the only one.
 
+## TODO
+- [ ] Stories
+- [ ] Cross device sync
+- [ ] gaming
+- [x] balling
+
+
 ## FAQ
 
 ### Why is there no dark mode
@@ -13,5 +20,12 @@ We collect data concering:
 - contacts (so you can invite other people to count with you)
 - your bank inforamtion (trust us)
 
-## Backups
+### Backups
 There are no backups, because the whole point of the app is to count. So just start over!
+
+### Stories
+Stories are coming soon:tm:
+see [here](https://github.com/TimoA200/airpod_counter/issues/16)
+
+### Imprint
+lol no
