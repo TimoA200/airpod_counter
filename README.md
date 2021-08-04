@@ -1,5 +1,7 @@
 # Airpod Counter
-The #1 App for counting airpods. Probably the only one.
+The #1 App for counting airpods. Probably the only one. \
+[Wiki page](https://github.com/TimoA200/airpod_counter/wiki)
+
 
 ## TODO
 - [ ] Stories
